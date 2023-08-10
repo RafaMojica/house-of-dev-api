@@ -1,7 +1,7 @@
 {
   "name": "house-of-dev-api",
   "version": "0.1.0",
-  "description": "API Rest diseñada para facilir la gestión de propiedades y la conexión eficiente entre compradores y vendedores en el mercado inmobiliario.",
+  "description": "API Rest is designed to facilitate property management and the efficient connection between buyers and sellers in the real estate market.",
   "type": "module",
   "main": "index.ts",
   "scripts": {
