@@ -1,0 +1,31 @@
+{
+  "name": "house-of-dev-api",
+  "version": "0.1.0",
+  "description": "API Rest diseñada para facilir la gestión de propiedades y la conexión eficiente entre compradores y vendedores en el mercado inmobiliario.",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RafaMojica/house-of-dev-api.git"
+  },
+  "keywords": [
+    "properties",
+    "services",
+    "selling",
+    "home",
+    "api"
+  ],
+  "author": {
+    "name": "Rafael Mojica",
+    "email": "rafael.mojica27@gmail.com",
+    "url": "https://rafaelmojica.vercel.app/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaMojica/house-of-dev-api/issues"
+  },
+  "homepage": "https://github.com/RafaMojica/house-of-dev-api#readme"
+}
