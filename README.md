@@ -84,7 +84,7 @@ See the documentation here: 👉 <a href="./gitflow-semver.md" target="_blank">G
 
 This project is not yet deployed, but you can try it in your local. Follow the instructions below to run it.
 
-#### 💠 Pre-requisites
+#### 💠 PRE-REQUISITES
 
 1. Install docker
 
@@ -92,7 +92,7 @@ This project is not yet deployed, but you can try it in your local. Follow the i
     https://www.docker.com/products/docker-desktop/
     ```
 
-#### 💠 Installation
+#### 💠 INSTALLATION
 
 1. Clone the repository
 
