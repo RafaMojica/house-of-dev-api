@@ -24,22 +24,22 @@
   <li>
     <a href="#4-getting-started">Getting Started</a>
     <ul>
-      <li><a href="#💠-pre-requisites">Pre-requisites</a></li>
-      <li><a href="#💠-installation">Installation</a></li>
+      <li><a href="#-pre-requisites">Pre-requisites</a></li>
+      <li><a href="#-installation">Installation</a></li>
     </ul>
   </li>
   <li><a href="#5-api-documentation">API Documentation</a></li>
   <li><a href="#6-functionalities">Functionalities</a>    
     <ul>
-      <li><a href="#🧑‍💻-manager">Manager</a></li>
-      <li><a href="#🧑‍💻-user">User</a></li>
-      <li><a href="#🧑‍💻-others">Others</a></li>
+      <li><a href="#-manager">Manager</a></li>
+      <li><a href="#-user">User</a></li>
+      <li><a href="#-others">Others</a></li>
     </ul>
   </li>
   <li><a href="#7-contributing">Contributing</a>    
     <ul>
-      <li><a href="#💡-report-bug---request-feature">Report Bug - Request feature</a></li>
-      <li><a href="#💡-pull-request">Pull Request</a></li>
+      <li><a href="#-report-bug---request-feature">Report Bug - Request feature</a></li>
+      <li><a href="#-pull-request">Pull Request</a></li>
     </ul>
   </li>
   <li><a href="#8-contact">Contact</a></li>
