@@ -128,7 +128,7 @@ See the documentation here: 👉 <a href="#" target="_blank">Documentation API</
 
 ## 6. Functionalities
 
-##### 🧑‍💻 MANAGER
+#### 🧑‍💻 MANAGER
 
 - [ ] Login
 - [ ] Session persistence
@@ -141,7 +141,7 @@ See the documentation here: 👉 <a href="#" target="_blank">Documentation API</
 - [ ] Update a property
 - [ ] Delete a property
 
-##### 🧑‍💻 USER
+#### 🧑‍💻 USER
 
 - [ ] Register
 - [ ] Login
@@ -157,7 +157,7 @@ See the documentation here: 👉 <a href="#" target="_blank">Documentation API</
 - [ ] View your scheduled meetings
 - [ ] Cancel a meeting 24 hours in advance
 
-##### 🧑‍💻 OTHERS
+#### 🧑‍💻 OTHERS
 
 - [ ] Responsive
 
@@ -170,11 +170,11 @@ See the documentation here: 👉 <a href="#" target="_blank">Documentation API</
 <p>Contributions from the Dev community help us learn, inspire and create new things. All contributions are welcome!</p>
 <p>If you have any suggestion to improve the project or you find a bug you can inform us, please choose one of the following options</p>
 
-##### 💡 REPORT BUG - REQUEST FEATURE
+#### 💡 REPORT BUG - REQUEST FEATURE
 
 1. 👉 <a href="https://github.com/RafaMojica/house-of-dev-api/issues">Report bug - request feature</a>
 
-##### 💡 PULL REQUEST
+#### 💡 PULL REQUEST
 
 1. **FORK** to the project.
 2. Create your Feature Branch (`git checkout -b feature/MyFeature`)

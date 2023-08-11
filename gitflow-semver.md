@@ -95,7 +95,7 @@ Here is a detailed overview of our workflow:
 
 ### 3.1 Feature Development
 
-<p align="center"><img src="https://i.ibb.co/0Dvqpv3/Captura-desde-2023-08-11-00-00-50-removebg-preview.png" alt="Semver" width="50%"><p>
+<p align="center"><img src="https://i.ibb.co/0Dvqpv3/Captura-desde-2023-08-11-00-00-50-removebg-preview.png" alt="Semver" width="60%"><p>
 
 When starting to work on a new feature, create a new branch from `develop`:
 
@@ -115,7 +115,7 @@ Then create a pull request in GitHub from `feature/new-feature` to `develop`. Th
 
 ### 3.2 Bugfix Development
 
-<p align="center"><img src="https://i.ibb.co/njdNc34/Captura-desde-2023-08-11-00-23-01-fotor-2023081103132-removebg-preview.png" alt="Semver" width="50%"><p>
+<p align="center"><img src="https://i.ibb.co/njdNc34/Captura-desde-2023-08-11-00-23-01-fotor-2023081103132-removebg-preview.png" alt="Semver" width="60%"><p>
 
 Similarly to feature development, when starting work on a bug, create a new `bugfix` branch from `develop`:
 
@@ -135,7 +135,7 @@ Once the pull request is reviewed and approved, it can be merged into `develop`.
 
 ### 3.3 Release Preparation and Deployment
 
-<p align="center"><img src="https://i.ibb.co/VDjFLJ6/Captura-desde-2023-08-11-00-01-14-removebg-preview.png" alt="Semver" width="50%"><p>
+<p align="center"><img src="https://i.ibb.co/VDjFLJ6/Captura-desde-2023-08-11-00-01-14-removebg-preview.png" alt="Semver" width="60%"><p>
 
 When the `develop` branch has acquired enough features and / or bugfixes for a release, you need to prepare for a release. This involves creating a new branch `release/x.y.z` where `x.y.z` is the new version number according to Semver rules:
 
@@ -157,7 +157,7 @@ Once the release branch is ready, create a pull request to `main` and another on
 
 ### 3.4 Hotfixes
 
-<p align="center"><img src="https://i.ibb.co/H41jM9T/Captura-desde-2023-08-11-00-01-30-removebg-preview-1.png" alt="Semver" width="50%"><p>
+<p align="center"><img src="https://i.ibb.co/H41jM9T/Captura-desde-2023-08-11-00-01-30-removebg-preview-1.png" alt="Semver" width="60%"><p>
 
 If there are bugs in the `main` branch, they should be fixed through a `hotfix` branch:
 
